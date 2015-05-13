@@ -1,8 +1,8 @@
 ### Welcome to the Darwin Ecosystem Wiki
 
-First head to [Api Resources](https://github.com/DarwinEcosystem/Documentation/wiki/REST-API-Resources) to understand the different fields
+First read [Api Resources](https://github.com/DarwinEcosystem/Documentation/wiki/REST-API-Resources) to understand the different fields
 
-Then look how [Understand JSON output](https://github.com/DarwinEcosystem/Documentation/wiki/Understanding-the-default-json-output)
+Then look how [Understanding the JSON output](https://github.com/DarwinEcosystem/Documentation/wiki/Understanding-the-default-json-output)
 
 
 
