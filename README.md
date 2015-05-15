@@ -8,18 +8,4 @@ Access our [API resources](https://github.com/DarwinEcosystem/Documentation/wiki
 Here is [the JSON output](https://github.com/DarwinEcosystem/Documentation/wiki/Understanding-the-default-json-output)
 
 
-<br />
-<br />
-<br />
-
-
-
-###Built with Darwin Ecosystem Technologies
-
-
-![Gif](https://raw.githubusercontent.com/DarwinEcosystem/darwinblackhole/master/demo.gif)
-
---
-
-![Gif](https://raw.githubusercontent.com/DarwinEcosystem/darwinbanner/master/demo.gif)
-
+#### [Copyright (c) 2015 Darwin Ecosystem LLC](http://www.darwineco.com)
