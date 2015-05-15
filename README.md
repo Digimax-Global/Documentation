@@ -12,4 +12,4 @@ Our core technology aggregates and correlates information that is representative
 
 <hr>
 
-#### [Copyright (c) 2015 Darwin Ecosystem LLC](http://www.darwineco.com)
+[Copyright (c) 2015 Darwin Ecosystem LLC](http://www.darwineco.com)
