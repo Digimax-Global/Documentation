@@ -1,7 +1,6 @@
-## Welcome to the Darwin Ecosystem's Builder's Wiki
+## Welcome to the Darwin Ecosystem's KeywordMeme API
 
-Our core technology aggregates and correlates information that is representative of current and evolving trends being expressed within sources of streaming information. Our KeywordMeme™ API gives solution builders the ability to use the curated output data sets, from targeted sources and topics.
-
+The KeywordMeme™ API gives solution builders the ability to use the curated output data sets, from targeted sources and topics. We apply complex organic correlation from streaming sources to assemble and deliver keyword clusters revealing the themes embeded in large corpus of information from RSS feeds, news, blogs and Twitter.
 <hr>
 
 ##### Access our [API resources](https://github.com/DarwinEcosystem/Documentation/wiki/REST-API-Resources) to learn about the different parameters available to you.
@@ -12,4 +11,4 @@ Our core technology aggregates and correlates information that is representative
 
 <hr>
 
-[Copyright (c) 2015 Darwin Ecosystem LLC](http://www.darwineco.com)
+[Copyright (c) 2017 Darwin Ecosystem LLC](http://www.darwineco.com)
