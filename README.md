@@ -1,6 +1,6 @@
 ## Welcome to the Darwin Ecosystem's KeywordMeme API
 
-The KeywordMeme™ API gives solution developer the ability to use the curated output data sets, from targeted sources and topics. We apply complex organic correlation from streaming sources to assemble and deliver keyword clusters revealing the themes embedded in large corpus of information from RSS feeds, news, blogs and Twitter.
+The Darwin Keyword Asembler (DaKA), or KeywordMeme™ API, gives solution developers the ability to use the curated output data sets, from targeted sources and topics. We apply complex organic correlation from streaming sources to assemble and deliver keyword clusters revealing the themes embedded in large corpus of information from RSS feeds, news, blogs and Twitter.
 <hr>
 
 ##### Access our [API resources](https://github.com/DarwinEcosystem/Documentation/wiki/REST-API-Resources) to learn about the different parameters available to you.
